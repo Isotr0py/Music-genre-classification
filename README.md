@@ -1,6 +1,6 @@
 # Music-genre-classification
 A conv1d neural network for music genre classification.
-- Classify music files(.wav and .flac) based on 10 genres from GTZAN dataset.
+- Classify music files (mp3, wav and flac) based on 10 genres from GTZAN dataset.
 - Use multiple layers of Conv1d Neural Nets and train model on Kaggle.
 - Developed with Keras.
 
