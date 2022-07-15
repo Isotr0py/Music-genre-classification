@@ -41,7 +41,7 @@ class audio_cls:
         return feature
 
     # extract and resample feature
-    def featureCal(self,y,sr,times_len)->np.array:
+    def featureCal(self,y,sr,times_len)->np.ndarray:
         chroma_stft = librosa.feature.chroma_stft(y,sr)
         spectral_center = librosa.feature.spectral_centroid(y=y, sr=sr)
         mfcc = librosa.feature.mfcc(y,sr,n_mfcc=20)
