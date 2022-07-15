@@ -44,7 +44,7 @@ At Epoch 400, training on Kaggle GPU:
 | Test | `0.9225`  | `0.7033` |
 
 Confusion matrix and model accuuracy:
-| **null**                 | **blues** | **classical** | **country** | **disco** | **hiphop** | **jazz** | **metal** | **pop** | **reggae** | **rock** | **Precision/User’s ** |
+| **null**                 | **blues** | **classical** | **country** | **disco** | **hiphop** | **jazz** | **metal** | **pop** | **reggae** | **rock** | **Precision/User’s** |
 |:------------------------:|:---------:|:-------------:|:-----------:|:---------:|:----------:|:--------:|:---------:|:-------:|:----------:|:--------:|:---------------------:|
 | **blues**                | 18        | 0             | 4           | 2         | 0          | 0        | 1         | 0       | 1          | 1        | 66.67%                |
 | **classical**            | 0         | 19            | 2           | 0         | 0          | 0        | 0         | 0       | 0          | 0        | 90.48%                |
