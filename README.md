@@ -25,7 +25,7 @@ To run the model in local, listed denpendencies should be installed:
 To install all dependencies, run `pip install -r requirements.txt`
 
 ## Model structure
-![Model](Figure/Model.png)
+![Model](Figure\Model.png)
 
 ##  Apply the model
 To classify the music file, run
